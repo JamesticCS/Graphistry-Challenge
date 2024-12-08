@@ -23,7 +23,7 @@ jobs:
           pip install pandas
 
       - name: Run analysis
-        run: python analysis.py
+        run: python graphistryChallenge.py
 
       - name: Show analysis outputs
         run: |
